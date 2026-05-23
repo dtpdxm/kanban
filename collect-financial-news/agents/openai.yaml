@@ -1,0 +1,4 @@
+interface:
+  display_name: "Financial News Collector"
+  short_description: "Write investor-oriented daily financial news briefs"
+  default_prompt: "Use $collect-financial-news to collect market-moving news and write a Chinese-led daily financial news brief with English source headlines."
